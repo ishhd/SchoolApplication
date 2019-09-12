@@ -221,7 +221,7 @@ class School {
     */
     
     public String getName() {
-        name="AlManarat Elementary School";
+        name="AlManarat highschool";
         return name;
     }
 /*
